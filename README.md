@@ -1,5 +1,9 @@
 # Neuroimaging Widgets (`niwidgets`)
 
+## todo:
+- [ ] put sliders on the images
+- [ ] make it 3d
+
 This repository is supposed to provide easy and general wrappers to display
 interactive widgets that visualise standard-format neuroimaging data, using new
 functions and standard functions from other libraries. It looks like this:
